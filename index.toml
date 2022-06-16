@@ -2,70 +2,70 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
+hash = "ef7ba7a2fca725ad5347728c4dd2ec445b0e4e6ba63da7de053a1bf5eff9c6c7"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
 metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "b3f3f88fbd2b366c65ab65eb286748702a53f66688a5f31ae4193778e720cab8"
+hash = "7621c01be6db7555b05a4e5529a363b9456359e77a9e0371d9a3b5fbcd8aaf3c"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "09a23d22d146a039769ed8d67f52de31f25648d952aca0ccab8775aa02a4b1f2"
+hash = "2db492a7ec0d37888c765c6d3a4a362de8b1539cfcaf97138176cb1e115d5da0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
+hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
 metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
+hash = "61ad80c53ecafdfac929cea57a872547e3870b07e0cd3c0610e2a5ea6265afaa"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "ceb2e3aef3707deb09ecacee8af38fe2b45b4f33af91f06384144d81c343cfdf"
+hash = "83f19de7ebd5d57300fe3bd8f513719d852ffb1aa01e5a5ed3e41e72844273aa"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "c9d1c627bf581449bb82cc3b98435fefc488352761f650fcddcb311b816ba881"
+hash = "466f549840dab5be89dd8018c96b61d1b7b622e2ae4b5254df6e04939f0ea459"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c0c3b565d421de2de8d5265971b7cdc309c9f5c7e8d2e92183dc056a8bad7ce7"
+hash = "5e14ee3730e67f5f210ec4797bb9420073403ec1925e755c43c802b38a76ad19"
 metafile = true
