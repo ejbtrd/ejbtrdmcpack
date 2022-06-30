@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ef7ba7a2fca725ad5347728c4dd2ec445b0e4e6ba63da7de053a1bf5eff9c6c7"
+hash = "b41b8ce7b580d6bb90135c7d35f4c56328b8c5d92ef5c1e472969f2296dc4e5d"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
+hash = "dbf2c28de7653648cca1bfb357ff393fe8a7b3bd06dbcfc6780b91e63b7b9e82"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
+hash = "229e51aae32ef7116a8ed9847a6ce64512af388a656df0b3ec2222c87c4f7b54"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "83f19de7ebd5d57300fe3bd8f513719d852ffb1aa01e5a5ed3e41e72844273aa"
+hash = "bd4d4c69140ce0f756f25d000e62c6a8b98d7b62544c3d081d00c4644b7c45db"
 metafile = true
 
 [[files]]
