@@ -1,12 +1,12 @@
 name = "ejbtrdmcpack"
 author = "ejbtrd"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5364907c2c907fda89f75b1ca8683e815934d7dde2f46bf09dbed88fa8e936b5"
+hash = "a26ca7e5a465527b752aaad284e156cb7316662aa03fe1b3a4e3b2fd24750dff"
 
 [versions]
 fabric = "0.14.8"
